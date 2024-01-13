@@ -12,7 +12,7 @@
 
 <div class="container mt-5">
     <?php include("../layout/menu.php");?>
-    <h2>Lista de Produtos
+    <h2>Lista de Produtos</h2>
     <!-- <a href="adicionar.php" class="btn btn-primary mb-3">Adicionar Produtos</a> -->
     <a href="adicionar.php" class="btn btn-info btn-lg">
         <span class="glyphicon glyphicon-plus"></span></a></h2>
