@@ -8,7 +8,7 @@
 <body>
 <div class="container">
     <h1>Login PDV</h1>
-    <form method="post" action="inicio.php">
+    <form method="post" action="login.php">
         <div class="mb-3 row">
             <label class="col-sm-2 col-form-label">Email</label>
             <div class="col-sm-10">
